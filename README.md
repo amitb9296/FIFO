@@ -1,4 +1,4 @@
-# FIFO
+# Synchronous FIFO
 A FIFO (first-in-first-out) buffer is an "elastic" storage between two subsystems. 
 It has two control signals, wr and rd, for write and read operations. 
 When wr is asserted, the input data is written into the buffer. 
